@@ -25,7 +25,3 @@ const config = defineStackbitConfig({
     },
     styleObjectModelName: 'ThemeStyle'
 });
-export default config;
-<div data-sb-object-id="1">
-  <h1 data-sb-field-path="title">My Page Title</h1>
-</div>
